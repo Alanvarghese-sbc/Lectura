@@ -86,5 +86,3 @@ streamlit run app.py
 * BART (Hugging Face) – Summarization model
 * T5 (Google) – Text-to-text generation for quizzes & flashcards
 
-```
-
