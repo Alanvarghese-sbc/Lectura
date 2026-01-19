@@ -1,6 +1,4 @@
-Perfect! Here's a **ready-to-copy README** for your project. You can directly paste this into your `README.md` file:
 
-````markdown
 # 🎓 Lectura: AI-Powered Lecture Voice-to-Notes Generator
 
 **Lectura** is an AI-powered assistant that transforms spoken lectures into structured study materials, helping students focus on learning rather than note-taking. It automatically generates summaries, quizzes, and flashcards from lecture audio.  
@@ -90,9 +88,3 @@ streamlit run app.py
 
 ```
 
----
-
-If you want, I can also **add a “Code Example” section in the README** showing how the main transcription + summarization + quiz generation works, so users immediately see it in action. It will make your README look even more professional.  
-
-Do you want me to add that?
-```
